@@ -167,5 +167,21 @@ The Crop Management System dataset includes the following features:
 - Rainfall Prediction: Input `Subdivision` and `Year` to get rainfall prediction for that year.
 - Yield Prediction: Input `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production` to get predicted yields for that crop and location.
 
+  ### Here are the Results of the project
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/49e7c203-fd88-4d32-96d9-f485611ddc74)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/ae18f917-7ea3-43db-b9b9-32f3a4a00df0)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/15514d8d-7286-409f-bf04-c4e81e78a6d3)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/64f40b58-30c8-4498-b18b-49d775e7c8c5)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/c82486bb-7fb4-494c-a69c-48dbd6e41545)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/613a38e5-b1d1-4583-881d-3a80d1390f42)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/9c1ea15e-1732-4425-ac80-2626834b9d18)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/63cb4f15-7fa3-46af-9b68-bab034d46889)
+  ![image](https://github.com/hrishikeasan33/AgriTech-360/assets/143091137/97175164-9d0f-44f3-abde-b4fbebfb97c0)
+
+
+
+
+
+
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
